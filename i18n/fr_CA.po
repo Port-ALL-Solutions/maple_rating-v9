@@ -1,0 +1,147 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* maplerating
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 9.0c\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-20 03:29+0000\n"
+"PO-Revision-Date: 2017-01-20 03:29+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "&amp;nbsp;"
+msgstr "&amp;nbsp;"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Acheteur"
+msgstr "Acheteur"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Adresse"
+msgstr "Adresse"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Brix"
+msgstr "Brix"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Class. par"
+msgstr "Class. par"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Code"
+msgstr "Code"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Date reçue"
+msgstr "Date reçue"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Defaut"
+msgstr "Defaut"
+
+#. module: maplerating
+#: model:ir.actions.report.xml,name:maplerating.report_barrels
+msgid "Detailed Rated Barrel Report"
+msgstr "Rapport des barils classifiés"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Entrepôt"
+msgstr "Entrepôt"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Genre"
+msgstr "Genre"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Grade"
+msgstr "Grade"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Lumière"
+msgstr "Lumière"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "No baril"
+msgstr "No baril"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "No temp"
+msgstr "No temp"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Plein"
+msgstr "Plein"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Poids brut"
+msgstr "Poids brut"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Poids net"
+msgstr "Poids net"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Producteur"
+msgstr "Producteur"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Proprio"
+msgstr "Proprio"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Rangée"
+msgstr "Rangée"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Saveur"
+msgstr "Saveur"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Scellé"
+msgstr "Scellé"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Tare"
+msgstr "Tare"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "Ville"
+msgstr "Ville"
+
+#. module: maplerating
+#: model:ir.ui.view,arch_db:maplerating.report_barrel_view
+msgid "État"
+msgstr "État"
+
